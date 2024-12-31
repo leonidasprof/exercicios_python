@@ -1,0 +1,7 @@
+print("-="*24)
+print("                    REVERSE      ")
+print("-="*24)
+numero = str(input("Digite um número inteiro com mais de 3 dígitos:\n "))
+print("-="*24)
+print(f"Resultado = {numero[::-1]} ")
+print("-="*24)

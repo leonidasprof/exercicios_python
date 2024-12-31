@@ -1,0 +1,7 @@
+print("--"*32)
+print("                         >TREINA RECIFE<             ")
+print("                     .:Grau em Fahrenheit:.          ")
+print("--"*32)
+grau = float(input(f"\tDigite o GRAU para converão: "))
+print(f"\t{grau}º graus convertido fica {9 * grau + 160}ºf (fharenheit) ")
+print("--" * 32)
