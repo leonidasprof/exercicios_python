@@ -1,0 +1,1 @@
+from nps1 import NPS
